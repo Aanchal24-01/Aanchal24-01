@@ -6,7 +6,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 - 🔭 I’m currently working on **Web development course**
 
-- 🌱 I’m currently learning **Bootstrap**
+- 🌱 I’m currently learning **Javascript**
 
 - 💬 Ask me about **HTML AND CSS**
 
