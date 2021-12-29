@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **aanchalsingh17008@gmail.com**
 
-- ⚡ Fun fact **I am imperfecty perfect**
+- ⚡ Fun fact **I am ingenious_nerd**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
